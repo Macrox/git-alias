@@ -8,6 +8,14 @@ A bunch of alias settings that improve using experience for git
 wget https://github.com/macrox/git-alias/raw/master/main.sh -O - | sh
 ```
 
+Or
+
+```bash
+git clone https://github.com/macrox/git-alias.git
+cd git-alias
+sh main.sh
+```
+
 ## Usage
 
 ### st
