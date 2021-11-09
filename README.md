@@ -5,7 +5,7 @@ A bunch of alias settings that improve using experience for git
 ## Quick Install
 
 ```bash
-wget https://github.com/macrox/git-alias/raw/master/main.sh -O - | sh
+/bin/bash -c "$(curl -fsSL https://github.com/macrox/git-alias/raw/master/main.sh)"
 ```
 
 Or
